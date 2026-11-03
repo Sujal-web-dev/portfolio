@@ -23,4 +23,4 @@ Plain HTML, CSS and JavaScript. No frameworks. Hosted on GitHub Pages.
 - Email: sujalrajgupta949@gmail.com
 
 ## Note
-I only test systems I own or have written permission to test.
+I only test systems .
